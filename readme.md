@@ -1,6 +1,6 @@
 # Bem vindo ao Contador de Vogais em FLASK
 
-Esta API foi criada por  [@Rafaelcarrijo](www.linkedin.com/in/rafaelcarrijoromano).
+Esta API foi criada por  [@Rafaelcarrijo](https://www.linkedin.com/in/rafaelcarrijoromano).
 
 
 ## Sobre a API
