@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    <meta charset="UTF-8">
+    <title>API POST</title>
+    <link rel="stylesheet" href="templates/style.css">
+</head>
+<body>
+
+<h1 id="title"><strong> Contando vogais</strong></h1><br><br>
+
+<form action="http://127.0.0.1:5000/count_vowel" method="post">
+    <div class="camp">
+        <label for="string"><strong>Palavra:</strong></label>
+        <input type="text" name="string" id="string" placeholder="digite" required>
+
+    </div>
+    <h5>Digite apenas palavras</h5>
+    <button class="button" type="submit">Enviar</button>
+
+</form>
+</body>
+</html>
