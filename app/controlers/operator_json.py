@@ -1,4 +1,6 @@
 
+
+#parte operacional do cálculo de vogais.
 def change_json(string):
     vowels = 'AaEeIiOoUu'
     new_json = {}

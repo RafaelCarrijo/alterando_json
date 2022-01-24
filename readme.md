@@ -8,7 +8,7 @@ Esta API foi criada por  [@Rafaelcarrijo](https://www.linkedin.com/in/rafaelcarr
 Nesta API recebemos uma String como parâmetro do **método 'POST'** e retornamos um JSON contendo a String como chave e o
 número de vogais contidos nela, como valor.
 
-- Em [Código](./codigo), você pode acessar o código fonte da API.
+- Em [Código](./APP), você pode acessar o código fonte da API.
 
 
 ## Extensões necessárias 
